@@ -1,6 +1,6 @@
 {
   "name": "promise-peek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Augmentation to ES6 Promise, that allows to peek at the promise results without interfering",
   "license": "MIT",
   "repository": {
