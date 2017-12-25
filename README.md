@@ -18,4 +18,3 @@ new Promise((resolve, reject) => dice('1d6') === 6 ? reject('Fail!') : resolve('
     .catch(error => console.log(`It's a ${error}`))
   
 ```
-
